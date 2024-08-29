@@ -2,8 +2,8 @@ import ffbot
 
 # Yahoo league/team id
 # Visit your team at https://football.fantasysports.yahoo.com/f1/, and the url will also include your league and team ID
-LEAGUE = 123456
-TEAM = 1
+LEAGUE = 393629
+TEAM = 13
 POSITIONS = "QB, WR, WR, WR, RB, RB, TE, W/R/T, K, DEF, BN, BN, BN, BN, IR"
 week = ffbot.current_week()
 
